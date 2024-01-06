@@ -1,4 +1,11 @@
 {
+  "identifier": "com.thirdteam.ThirdSource",
+  "name": "ThirdSource",
+  "iconURL": "https://media.discordapp.net/attachments/1181404941521272983/1192588356794712186/IMG_5063.png?ex=65a99f75&is=65972a75&hm=5e04bd8666aa7abe1741d8f1e9f7f7f42b40819179eaf12e60d28462dd80d7c0&=&format=webp&quality=lossless&width=1386&height=1386", 
+  "headerURL": "https://media.discordapp.net/attachments/1181404941521272983/1192588356794712186/IMG_5063.png?ex=65a99f75&is=65972a75&hm=5e04bd8666aa7abe1741d8f1e9f7f7f42b40819179eaf12e60d28462dd80d7c0&=&format=webp&quality=lossless&width=1386&height=1386", 
+  "website": "https://quarksources.github.io/",
+  "news": [],
+  "userInfo": {},
   "apps": [
     {
       "beta": false,
@@ -64,9 +71,5 @@
       "versionDate": "2023-11-27T13:30:00Z",
       "versionDescription": "Happy November! Since we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Clear cache button to help with the large size issues. \n\n - Fix: Fix AppID Crash \n\n - Version in settings showing as develop \n\n - Added Timeout Feature so when you install an app. Your device will not time out and mess up the install. \n\n - Remove the heavy reliance on Info.plist for UDID. \n\n - Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes. \n\n - fix: fix AltWidget AppGroup Issue. \n\n - fix: Use forked libplist"
     }
-  ],
-  "identifier": "com.example.source",
-  "name": "ThirdSource",
-  "news": [],
-  "userInfo": {}
+  ]
 }
