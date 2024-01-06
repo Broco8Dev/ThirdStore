@@ -1,1 +1,72 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.worthdoingbadly.WDBRemoveThreeAppLimit","developerName":"Zhuowei","downloadURL":"https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa","iconURL":"https://i.imgur.com/SXK4rhS.png","localizedDescription":"An app that removes the three app limit for free provisioning. Hit Go just before installing apps. Should work on iOS 16.1.2 and below / iOS 15.7.1 and below.\n\nThis is very limited:\n\nApps still expire after a week\n\nThey still do not get arbitrary entitlements\n2022 They still must be signed. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.","name":"WDBRemoveThreeAppLimit","screenshotURLs":["https://i.imgur.com/6pajtgW.png"],"size":88800,"subtitle":"Removes three app limit from AltStore!","tintColor":"404040","version":"1.0","versionDate":"2023-02-16","versionDescription":"Initial release."},{"beta":false,"bundleIdentifier":"com.rileytestut.AltStore","developerName":"Riley Testut","downloadURL":"https://cdn.altstore.io/file/altstore/apps/altstore/1_7.ipa","iconURL":"https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png","localizedDescription":"AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.","name":"AltStore","screenshotURLs":["https://user-images.githubusercontent.com/705880/277757391-76c02f48-be2a-485a-ba75-277480c99356.jpeg","https://user-images.githubusercontent.com/705880/277757303-ee0b7695-0e7d-4a93-8b25-4fbbbd3cb745.PNG","https://user-images.githubusercontent.com/705880/277757263-ef612879-0314-4464-a8f4-103e1f22fbb1.png","https://user-images.githubusercontent.com/705880/277757445-450618d1-6005-445e-bfd4-7c75387e990b.PNG","https://user-images.githubusercontent.com/705880/277757220-ebbf42dc-5153-4e2d-9ff4-4c25ad367941.PNG","https://user-images.githubusercontent.com/705880/277757419-f8067301-61f3-4eae-bbd1-be1bf2a1c05c.PNG"],"size":2184796,"subtitle":"An alternative App Store for iOS.","tintColor":"018084","version":"1.7","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":"NEW (Active Apps) Widget (iOS 17+). View remaining days for ALL active apps from Home Screen. Refresh apps directly from home screen by tapping countdown timers (IMPROVED) Shortcuts. Converted existing Refresh All Apps shortcut into App Shortcut. Available by default in App Shortcuts section of Shortcuts app. Displays accurate progress when refreshing apps via Shortcuts app with Widgets. Updated existing home screen widget to support refreshing apps by tapping countdown (iOS 17+). Fully compatible with macOS Sonoma (FIXED). Fixed AltJIT on iOS 17*. Fixed updating apps with manually removed extensions (e.g. uYou+). Fixed not refreshing AltStore last when refreshing via Shortcut. Fixed Error Log not displaying all detailed info for certain errors. Requires AltServer 1.7 (macOS)."},{"beta":false,"bundleIdentifier":"com.SideStore.SideStore","developerName":"SideStore Team","downloadURL":"https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa","iconURL":"https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png","localizedDescription":"SideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library","name":"SideStore","screenshotURLs":["https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png","https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png","https://apps.sidestore.io/apps/sidestore/v0.1.1/news-dark.png","https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-light.png","https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-light.png","https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"],"size":9195339,"subtitle":"SideStore is an alternative app store for non-jailbroken devices.","tintColor":"A405FA","version":"1.3b2","versionDate":"2023-11-27T13:30:00Z","versionDescription":"Happy November! Since we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Clear cache button to help with the large size issues. \n\n - Fix: Fix AppID Crash \n\n - Version in settings showing as develop \n\n - Added Timeout Feature so when you install an app. Your device will not time out and mess up the install. \n\n - Remove the heavy reliance on Info.plist for UDID. \n\n - Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes. \n\n - fix: fix AltWidget AppGroup Issue. \n\n - fix: Use forked libplist"}],"identifier":"com.example.source","name":"ThirdSource","news":[],"userInfo":{}}
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
+      "developerName": "Zhuowei",
+      "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
+      "iconURL": "https://i.imgur.com/SXK4rhS.png",
+      "localizedDescription": "An app that removes the three app limit for free provisioning. Hit Go just before installing apps. Should work on iOS 16.1.2 and below / iOS 15.7.1 and below.\n\nThis is very limited:\n\nApps still expire after a week\n\nThey still do not get arbitrary entitlements\n2022 They still must be signed. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.",
+      "name": "WDBRemoveThreeAppLimit",
+      "screenshotURLs": [
+        "https://i.imgur.com/6pajtgW.png"
+      ],
+      "size": 88800,
+      "subtitle": "Removes three app limit from AltStore!",
+      "tintColor": "404040",
+      "version": "1.0",
+      "versionDate": "2023-02-16",
+      "versionDescription": "Initial release."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_7.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+      "name": "AltStore",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/277757391-76c02f48-be2a-485a-ba75-277480c99356.jpeg",
+        "https://user-images.githubusercontent.com/705880/277757303-ee0b7695-0e7d-4a93-8b25-4fbbbd3cb745.PNG",
+        "https://user-images.githubusercontent.com/705880/277757263-ef612879-0314-4464-a8f4-103e1f22fbb1.png",
+        "https://user-images.githubusercontent.com/705880/277757445-450618d1-6005-445e-bfd4-7c75387e990b.PNG",
+        "https://user-images.githubusercontent.com/705880/277757220-ebbf42dc-5153-4e2d-9ff4-4c25ad367941.PNG",
+        "https://user-images.githubusercontent.com/705880/277757419-f8067301-61f3-4eae-bbd1-be1bf2a1c05c.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "An alternative App Store for iOS.",
+      "tintColor": "018084",
+      "version": "1.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "NEW (Active Apps) Widget (iOS 17+). View remaining days for ALL active apps from Home Screen. Refresh apps directly from home screen by tapping countdown timers (IMPROVED) Shortcuts. Converted existing Refresh All Apps shortcut into App Shortcut. Available by default in App Shortcuts section of Shortcuts app. Displays accurate progress when refreshing apps via Shortcuts app with Widgets. Updated existing home screen widget to support refreshing apps by tapping countdown (iOS 17+). Fully compatible with macOS Sonoma (FIXED). Fixed AltJIT on iOS 17*. Fixed updating apps with manually removed extensions (e.g. uYou+). Fixed not refreshing AltStore last when refreshing via Shortcut. Fixed Error Log not displaying all detailed info for certain errors. Requires AltServer 1.7 (macOS)."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore Team",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
+      "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
+      "localizedDescription": "SideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
+      "name": "SideStore",
+      "screenshotURLs": [
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-light.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-light.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
+      ],
+      "size": 9195339,
+      "subtitle": "SideStore is an alternative app store for non-jailbroken devices.",
+      "tintColor": "A405FA",
+      "version": "1.3b2",
+      "versionDate": "2023-11-27T13:30:00Z",
+      "versionDescription": "Happy November! Since we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Clear cache button to help with the large size issues. \n\n - Fix: Fix AppID Crash \n\n - Version in settings showing as develop \n\n - Added Timeout Feature so when you install an app. Your device will not time out and mess up the install. \n\n - Remove the heavy reliance on Info.plist for UDID. \n\n - Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes. \n\n - fix: fix AltWidget AppGroup Issue. \n\n - fix: Use forked libplist"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "ThirdSource",
+  "news": [],
+  "userInfo": {}
+}
